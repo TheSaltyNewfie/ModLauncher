@@ -1,0 +1,12 @@
+{
+    "admin": {
+      "tobydodge": {
+        "password": "testing"
+      }
+    },
+    "standard": {
+      "kccf1": {
+        "password": "REPLACE_ME_NOW"
+      }
+    }
+  }
