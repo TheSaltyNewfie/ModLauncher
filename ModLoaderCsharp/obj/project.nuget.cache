@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8e+CtToIslSVGscFPUMLds9Ygt4BBbw+gL22+80CUTXMKsSMOCrX4lDnu3YQ4gaOdpNWg9AcLTOvILRj0kPO4Q==",
+  "dgSpecHash": "MHRTVnfMqAAGNp64HeshyI1vM209n27q077Qq3+v6cj3OQAaMgf+Z5/+tl5S/Qsqn9uis/GzlVY/vHVRic9ubQ==",
   "success": true,
-  "projectFilePath": "E:\\Visual Studio 2017\\Projects\\NewfieFlavoredModLoaderForMinecraftUsingJsonFilesAndStuff\\ModLoaderCsharp.csproj",
+  "projectFilePath": "E:\\Visual Studio 2017\\Projects\\ModLauncher\\ModLoaderCsharp\\ModLoaderCsharp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\geemu\\.nuget\\packages\\json.net\\1.0.33\\json.net.1.0.33.nupkg.sha512",
     "C:\\Users\\geemu\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
