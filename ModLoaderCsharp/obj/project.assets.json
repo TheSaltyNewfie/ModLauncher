@@ -286,11 +286,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Visual Studio 2017\\Projects\\NewfieFlavoredModLoaderForMinecraftUsingJsonFilesAndStuff\\ModLoaderCsharp.csproj",
+      "projectUniqueName": "E:\\Visual Studio 2017\\Projects\\ModLauncher\\ModLoaderCsharp\\ModLoaderCsharp.csproj",
       "projectName": "ModLoaderCsharp",
-      "projectPath": "E:\\Visual Studio 2017\\Projects\\NewfieFlavoredModLoaderForMinecraftUsingJsonFilesAndStuff\\ModLoaderCsharp.csproj",
+      "projectPath": "E:\\Visual Studio 2017\\Projects\\ModLauncher\\ModLoaderCsharp\\ModLoaderCsharp.csproj",
       "packagesPath": "C:\\Users\\geemu\\.nuget\\packages\\",
-      "outputPath": "E:\\Visual Studio 2017\\Projects\\NewfieFlavoredModLoaderForMinecraftUsingJsonFilesAndStuff\\obj\\",
+      "outputPath": "E:\\Visual Studio 2017\\Projects\\ModLauncher\\ModLoaderCsharp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
