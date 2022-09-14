@@ -1,0 +1,7 @@
+{
+    "settings":{
+        "DefaultDownloadFolder" : "C:\\Exciting\\JarFiles\\Here\\",
+        "DefaultModConfigurationsFolder" : "C:\\Directory_To_Your_Folder\\Of_Minecraft_Mod_Config_Jsons\\",
+        "ModConfigFileName" : "minecraft_1.18.2.json"
+    }
+}
